@@ -2,7 +2,7 @@
 
 This project contains specific e-commerce applications for purchasing shoes by implementing the chat apps feature. This project is also part of the [BuildWithAngga](https://buildwithangga.com/kelas/full-stack-laravel-flutter-2021-building-e-commerce-and-chat-apps?main_leads=topics) online course
 
-<img src="https://github.com/msyamsularif/ecommerce-app/blob/main/assets/documentation/Mockup.png" width="683" height="384"/>
+![](https://github.com/msyamsularif/ecommerce-app/blob/main/assets/documentation/Mockup.png)
 
 ## Features
 
